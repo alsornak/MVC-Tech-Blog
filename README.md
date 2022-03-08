@@ -71,7 +71,7 @@ We also need the [dotenv package](https://www.npmjs.com/package/dotenv) to use e
 
 
 ## Deployed app 
-<a href="https://week14techblog.herokuapp.com/">Heroku Link</a>
+### <a href="https://week14techblog.herokuapp.com/">Heroku Link</a>
 
 
 ## Technologies Use
