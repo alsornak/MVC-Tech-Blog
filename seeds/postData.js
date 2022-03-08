@@ -3,13 +3,13 @@ const { Post } = require('../models');
 const postdata =
 [
   {
-    "postTitle": "Beautiful Picnic",
-    "postContent": "There are many beautiful places",
+    "postTitle": "Why MVC is so important",
+    "postContent": "MVC allows developers to maintain a true separation of concerns, devising their code between many layers.",
     "userId": 1
   },
   {
-    "postTitle": "Mountain",
-    "postContent": "There are mountaineous area",
+    "postTitle": "ORM",
+    "postContent": "It really simplifies the queries in SQL.",
     "userId": 2
   },
   {
