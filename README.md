@@ -70,7 +70,8 @@ The application’s folder structure must follow the Model-View-Controller parad
 We also need the [dotenv package](https://www.npmjs.com/package/dotenv) to use environment variables, the [bcrypt package](https://www.npmjs.com/package/bcrypt) to hash passwords, and the [express-session](https://www.npmjs.com/package/express-session) and [connect-session-sequelize](https://www.npmjs.com/package/connect-session-sequelize) packages to add authentication.
 
 
-## Deployed app : <a href="https://week14techblog.herokuapp.com/">Heroku Link</a>
+## Deployed app 
+<a href="https://week14techblog.herokuapp.com/">Heroku Link</a>
 
 
 ## Technologies Use
